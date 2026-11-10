@@ -1,0 +1,8 @@
+**/.gradle/
+**/build/
+**/out/
+**/.idea/
+*.iml
+~$*.docx
+.DS_Store
+Thumbs.db
